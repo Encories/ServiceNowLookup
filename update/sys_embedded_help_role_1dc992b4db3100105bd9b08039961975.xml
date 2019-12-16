@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="datalookup" name="datalookup">ddc992b4db3100105bd9b08039961972</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-16 05:55:37</sys_created_on>
+        <sys_id>1dc992b4db3100105bd9b08039961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ddc992b4db3100105bd9b08039961972</sys_name>
+        <sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1dc992b4db3100105bd9b08039961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-16 05:55:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
