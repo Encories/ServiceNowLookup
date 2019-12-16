@@ -27,25 +27,23 @@
         <rest_service_text/>
         <rest_variables/>
         <role_conditions/>
-        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-	
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
 
-var caller = current.caller_id;	
-var shortDescription = current.short_description;	
-var description = current.description;	
-var parent = current.sys_id;	
 
-var gr = new GlideRecord('x_301460_datalooku_incident_child');
-gr.initialize(); 
-//gr.assigned_to = assignedTo; 
-//gr.assigned_to = '5137153cc611227c000bbd1bd8cd2005'; // Fred Luddy	
-gr.parent = parent;	
-gr.caller_id = caller;	
-gr.short_description = shortDescription;	
-gr.description = description; 
-gr.insert();
+    var caller = current.caller_id;
+    var shortDescription = current.short_description;
+    var description = current.description;
+    var parent = current.sys_id;
 
-	
+    var gr = new GlideRecord('x_301460_datalooku_incident_child');
+    gr.initialize();
+    gr.parent = parent;
+    gr.caller_id = caller;
+    gr.short_description = shortDescription;
+    gr.description = description;
+    gr.insert();
+
+
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -54,7 +52,7 @@ gr.insert();
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>06b957fcdb3500105bd9b080399619ba</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Test Lookup BR</sys_name>
         <sys_overrides/>
         <sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package>
@@ -62,7 +60,7 @@ gr.insert();
         <sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope>
         <sys_update_name>sys_script_06b957fcdb3500105bd9b080399619ba</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-16 12:22:44</sys_updated_on>
+        <sys_updated_on>2019-12-16 12:57:01</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
