@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="Test Lookup Studio" max_length="40" name="x_301460_datalooku_test_lookup_studio" type="collection">
+        <element label="Assighed to" max_length="32" name="assighed_to" reference="sys_user" type="reference"/>
+        <element label="Caller" max_length="32" name="caller" reference="sys_user" type="reference"/>
+        <element label="Description" max_length="500" name="description" type="string"/>
+        <element label="Short description" max_length="200" name="short_description" type="string"/>
+        <index name="index">
+            <element name="caller"/>
+        </index>
+        <index name="index2">
+            <element name="assighed_to"/>
+        </index>
+    </element>
+</database>

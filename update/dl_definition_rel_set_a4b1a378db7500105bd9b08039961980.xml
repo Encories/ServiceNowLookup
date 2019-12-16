@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_set">
+    <dl_definition_rel_set action="INSERT_OR_UPDATE">
+        <always_replace>true</always_replace>
+        <dl_definition display_value="LookUp">425f57b4db7500105bd9b0803996191e</dl_definition>
+        <matcher_table>x_301460_datalooku_test_lookup_studio</matcher_table>
+        <matcher_table_field>assighed_to</matcher_table_field>
+        <source_table>x_301460_datalooku_incident_child</source_table>
+        <source_table_field>assigned_to</source_table_field>
+        <sys_class_name>dl_definition_rel_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-16 11:11:04</sys_created_on>
+        <sys_id>a4b1a378db7500105bd9b08039961980</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope>
+        <sys_update_name>dl_definition_rel_set_a4b1a378db7500105bd9b08039961980</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-16 11:24:07</sys_updated_on>
+    </dl_definition_rel_set>
+</record_update>
