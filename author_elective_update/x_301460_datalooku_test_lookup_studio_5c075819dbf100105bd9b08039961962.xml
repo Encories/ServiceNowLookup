@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_301460_datalooku_test_lookup_studio">
+    <x_301460_datalooku_test_lookup_studio action="DELETE">
+        <active>true</active>
+        <assighed_to display_value="Annie Approver">c9884ac30a0a0bdb3879454e8f02774e</assighed_to>
+        <caller/>
+        <description>2</description>
+        <order>1</order>
+        <short_description>Abel Tuter</short_description>
+        <sys_class_name>x_301460_datalooku_test_lookup_studio</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-17 09:41:33</sys_created_on>
+        <sys_id>5c075819dbf100105bd9b08039961962</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope>
+        <sys_update_name>x_301460_datalooku_test_lookup_studio_5c075819dbf100105bd9b08039961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-17 12:20:56</sys_updated_on>
+    </x_301460_datalooku_test_lookup_studio>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DataLookup">40f81274db3100105bd9b080399619a8</application>
+        <file_path/>
+        <instance_id>1ecd912adbb0f3440b9d21c40596190c</instance_id>
+        <instance_name>dev81453</instance_name>
+        <name>x_301460_datalooku_test_lookup_studio_5c075819dbf100105bd9b08039961962</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_301460_datalooku_test_lookup_studio"><x_301460_datalooku_test_lookup_studio action="INSERT_OR_UPDATE"><active>true</active><assighed_to display_value="Annie Approver">c9884ac30a0a0bdb3879454e8f02774e</assighed_to><caller/><description>2</description><order>1</order><short_description>Abel Tuter</short_description><sys_class_name>x_301460_datalooku_test_lookup_studio</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-17 09:41:33</sys_created_on><sys_id>5c075819dbf100105bd9b08039961962</sys_id><sys_mod_count>7</sys_mod_count><sys_name>1</sys_name><sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package><sys_policy/><sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope><sys_update_name>x_301460_datalooku_test_lookup_studio_5c075819dbf100105bd9b08039961962</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-17 12:20:56</sys_updated_on></x_301460_datalooku_test_lookup_studio></record_update>]]></payload>
+        <payload_hash>-517423431</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>44f81274db3100105bd9b080399619aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-17 12:20:56</sys_created_on>
+        <sys_id>178b7c9ddb7500105bd9b08039961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f13cdddfb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-17 12:20:56</sys_updated_on>
+        <type>Test Lookup Studio</type>
+        <update_guid>9f8b7c9d6b7500108d142ebe45ee8068</update_guid>
+        <update_guid_history>9f8b7c9d6b7500108d142ebe45ee8068:-517423431,9b5778d93f750010e5fc846f5d3bddcf:-105723671,fb0778d90d750010645cea29eebedaca:383714168,1a09601df9350010b3430733d4a2219a:-1591457922,02c66459093500106eb9ca1a27dbd864:-1559416328,2a6624591a350010bef175c0dbbff1b4:-1892271542,7317d89572f100103b83b8d0989a6f09:-1533834030,fc17d89516f100101bb5685ef7538304:1852095378</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">3f8df851dbb500105bd9b080399619da</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-17 12:29:42</sys_created_on>
+        <sys_db_object display_value="" name="x_301460_datalooku_test_lookup_studio">x_301460_datalooku_test_lookup_studio</sys_db_object>
+        <sys_id>51ecea3fefc34132bc0ae4a0138e8991</sys_id>
+        <sys_metadata>5c075819dbf100105bd9b08039961962</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope>
+        <sys_scope_delete display_value="">5dcc9f00e0b849cc8bf763bdf6e76310</sys_scope_delete>
+        <sys_update_name>x_301460_datalooku_test_lookup_studio_5c075819dbf100105bd9b08039961962</sys_update_name>
+        <sys_update_version display_value="x_301460_datalooku_test_lookup_studio_5c075819dbf100105bd9b08039961962">178b7c9ddb7500105bd9b08039961969</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-17 12:29:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

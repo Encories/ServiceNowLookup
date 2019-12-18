@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_301460_datalooku_test_lookup_studio">
+    <x_301460_datalooku_test_lookup_studio action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assighed_to display_value="Leslie Cackowski">b2826bf03710200044e0bfc8bcbe5dff</assighed_to>
+        <caller/>
+        <description/>
+        <order>1</order>
+        <short_description/>
+        <sys_class_name>x_301460_datalooku_test_lookup_studio</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-17 12:29:29</sys_created_on>
+        <sys_id>688db891dbb500105bd9b08039961904</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope>
+        <sys_update_name>x_301460_datalooku_test_lookup_studio_688db891dbb500105bd9b08039961904</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-18 11:26:52</sys_updated_on>
+    </x_301460_datalooku_test_lookup_studio>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_public">
+    <sys_public action="DELETE">
+        <active>true</active>
+        <page/>
+        <sys_class_name>sys_public</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-18 10:03:45</sys_created_on>
+        <sys_id>e6b521a9db7100105bd9b0803996191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope>
+        <sys_update_name>sys_public_e6b521a9db7100105bd9b0803996191f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-18 10:03:45</sys_updated_on>
+    </sys_public>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DataLookup">40f81274db3100105bd9b080399619a8</application>
+        <file_path/>
+        <instance_id>1ecd912adbb0f3440b9d21c40596190c</instance_id>
+        <instance_name>dev81453</instance_name>
+        <name>sys_public_e6b521a9db7100105bd9b0803996191f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_public"><sys_public action="INSERT_OR_UPDATE"><active>true</active><page/><sys_class_name>sys_public</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-18 10:03:45</sys_created_on><sys_id>e6b521a9db7100105bd9b0803996191f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package><sys_policy/><sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope><sys_update_name>sys_public_e6b521a9db7100105bd9b0803996191f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-18 10:03:45</sys_updated_on></sys_public></record_update>]]></payload>
+        <payload_hash>517912224</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>44f81274db3100105bd9b080399619aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-18 10:03:45</sys_created_on>
+        <sys_id>abb52569db7100105bd9b08039961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f1876a1300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-18 10:03:45</sys_updated_on>
+        <type>Public Pages</type>
+        <update_guid>e3b52569e571001090504c6cdde95663</update_guid>
+        <update_guid_history>e3b52569e571001090504c6cdde95663:517912224</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-18 10:03:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_public">sys_public</sys_db_object>
+        <sys_id>42efa4b838444cb097b79ff396c8e904</sys_id>
+        <sys_metadata>e6b521a9db7100105bd9b0803996191f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DataLookup" source="x_301460_datalooku">40f81274db3100105bd9b080399619a8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DataLookup">40f81274db3100105bd9b080399619a8</sys_scope>
+        <sys_scope_delete display_value="">5dcc9f00e0b849cc8bf763bdf6e76310</sys_scope_delete>
+        <sys_update_name>sys_public_e6b521a9db7100105bd9b0803996191f</sys_update_name>
+        <sys_update_version display_value="sys_public_e6b521a9db7100105bd9b0803996191f">abb52569db7100105bd9b08039961963</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-18 10:03:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
